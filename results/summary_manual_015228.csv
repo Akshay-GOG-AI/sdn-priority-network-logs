@@ -1,0 +1,9 @@
+label,severity,sent,received,loss_pct,avg_delay_ms,p95_delay_ms,max_delay_ms
+baseline_none,CRITICAL,143,143,0.00,0.25,0.46,1.28
+baseline_none,ERROR,216,216,0.00,0.25,0.50,1.08
+baseline_none,WARNING,407,407,0.00,0.27,0.45,4.95
+baseline_none,INFO,734,734,0.00,0.27,0.44,8.87
+static_none,CRITICAL,150,150,0.00,0.28,0.50,1.85
+static_none,ERROR,218,218,0.00,0.28,0.50,2.60
+static_none,WARNING,412,412,0.00,0.28,0.44,7.40
+static_none,INFO,720,720,0.00,0.28,0.39,13.68

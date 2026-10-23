@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+ryu39/
+.env
+results/server.out

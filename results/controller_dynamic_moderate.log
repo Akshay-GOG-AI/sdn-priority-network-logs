@@ -1,0 +1,9 @@
+loading app controller/log_controller.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/log_controller.py of LogController
+LogController started in dynamic mode
+instantiating app ryu.controller.ofp_handler of OFPHandler
+Congestion detected (2.01 Mbps)
+Priority rules INSTALLED (critical->queue 1, normal->queue 2)
+Congestion cleared (0.00 Mbps)
+Priority rules REMOVED

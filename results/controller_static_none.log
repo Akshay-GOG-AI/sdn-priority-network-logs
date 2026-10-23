@@ -1,0 +1,6 @@
+loading app controller/log_controller.py
+loading app ryu.controller.ofp_handler
+instantiating app controller/log_controller.py of LogController
+LogController started in static mode
+instantiating app ryu.controller.ofp_handler of OFPHandler
+Priority rules INSTALLED (critical->queue 1, normal->queue 2)

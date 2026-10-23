@@ -1,0 +1,36 @@
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+*** Configuring hosts
+h1 h2 h3 h4 h5 
+*** Starting controller
+c0 
+*** Starting 2 switches
+s1 (100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+s2 (100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+...(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+(100.00Mbit) *** Error: Warning: sch_htb: quantum of class 50001 is big. Consider r2q change.
+
+*** Bottleneck queues configured on s1-eth5 (2 Mbps)
+*** Stopping 1 controllers
+c0 
+*** Stopping 6 links
+......
+*** Stopping 2 switches
+s1 s2 
+*** Stopping 5 hosts
+h1 h2 h3 h4 h5 
+*** Done

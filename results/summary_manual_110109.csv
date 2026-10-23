@@ -1,0 +1,5 @@
+label,severity,sent,received,loss_pct,avg_delay_ms,p95_delay_ms,max_delay_ms
+dynamic_heavy_fast,CRITICAL,447,447,0.00,3.99,0.91,388.09
+dynamic_heavy_fast,ERROR,647,647,0.00,3.44,0.87,446.38
+dynamic_heavy_fast,WARNING,1103,1103,0.00,13.42,19.53,534.68
+dynamic_heavy_fast,INFO,2303,2303,0.00,12.91,19.43,529.66
